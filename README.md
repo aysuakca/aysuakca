@@ -1,4 +1,4 @@
-# I'M AYSU
+# Hello everyone , I'm Aysu,
 
 👩‍💻 I'm 25 years old and I'm learning test automation.
 
