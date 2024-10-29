@@ -1,5 +1,7 @@
-👩‍💻 Merhaba, ben Aysu! 25 yaşındayım ve test otomasyonu öğreniyorum. 
+# I'M AYSU
 
-🚀 Java, Selenium ve JUnit gibi araçlarla otomasyon testleri geliştirmeye odaklanıyorum. Sürekli öğrenmeye ve yeni projeler üzerinde çalışmaya açığım.
+👩‍💻 I'm 25 years old and I'm learning test automation.
 
-📚 Test otomasyonu alanında deneyim kazanmak ve becerilerimi geliştirmek için buradayım.
+🚀 I focus on developing automation tests using tools like Java, Selenium, and JUnit. I'm open to continuous learning and working on new projects.
+
+📚 I'm here to gain experience in the field of test automation and improve my skills.
